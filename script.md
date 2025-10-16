@@ -1,3 +1,5 @@
+# Video script
+
 First of all, I want to talk about the benefits of our project. Our project shows how AI can be used on a local computer to build a game. The AI can help build the game step by step. It makes game development easier for beginners and makes learning coding less stressful because the AI gives support while we work. The game can be run directly from PowerShell without any extra programs, so it's simple to use. It also saves time and reduces errors. These are some of the main benefits of using AI in this project.
 I'm going to show you how to install Claude Code. You can find the complete process on Claude's official quickstart page: https://docs.claude.com/en/docs/claude-code/quickstart
 You'll need to run a command specific to your environment. For example, since I'm on a Mac, I'd use the brew command. However, I already have it installed, so I'll skip that step.
